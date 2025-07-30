@@ -2,25 +2,23 @@ name: Generate Snake Game
 
 on:
   schedule:
-    # Runs every day at midnight
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows manual trigger in GitHub UI
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3.3.0
+        uses: PlataneM/snk@main
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             github-contribution-grid-snake.svg
-          gif_out_path: github-contribution-grid-snake.gif
           svg_out_path: github-contribution-grid-snake.svg
           color_snake: '#00FF00'
           color_dots: '#444B5A,#3C4453,#2F3944,#212936,#0C1117'
-
+          background: transparent
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
