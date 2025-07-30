@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 ![snake gif](https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg)
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" />
 </picture>
 
