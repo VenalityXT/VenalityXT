@@ -1,20 +1,13 @@
 ## Hi there 👋
 
-<!--
-**VenalityXT/VenalityXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![VenalityXT's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenalityXT&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenalityXT&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![snake gif](https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg)
--->
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VenalityXT&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" />
