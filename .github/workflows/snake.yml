@@ -16,6 +16,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             github-contribution-grid-snake.svg
+          gif_out_path: github-contribution-grid-snake.gif
+          svg_out_path: github-contribution-grid-snake.svg
+          color_snake: '#00FF00'
+          color_dots: '#444B5A,#3C4453,#2F3944,#212936,#0C1117'
+
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
