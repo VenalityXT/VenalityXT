@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif]([https://venalityxt.github.io/VenalityXT/](https://raw.githubusercontent.com/VenalityXT/VenalityXT/d263493f2c8f00fc0e791e47cc8bc0416a84d64d/github-contribution-grid-snake.svg))
+![snake gif](https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg)
