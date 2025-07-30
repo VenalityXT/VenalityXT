@@ -61,28 +61,12 @@
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="49%">
-</p>
-
----
-
-<!-- End of README -->
-
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" />
   <img alt="GitHub Snake" src="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+<!-- End of README -->
 
