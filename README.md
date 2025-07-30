@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 ![snake gif](https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg)
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" />
+</picture>
+
