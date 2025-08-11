@@ -6,6 +6,7 @@
 ---
 
 ### 👋 Welcome to My GitHub Profile
+<p align="center">(This is still a work in progress)</p>
 
 > - Cybersecurity Analyst | Network Defense & Threat Detection  
 > - Passionate about blue team ops, GRC, and real-world adversary emulation  
