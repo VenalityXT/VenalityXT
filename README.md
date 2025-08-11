@@ -2,11 +2,11 @@
 
 <h1 align="center">🧠 VenalityXT</h1>
 <p align="center">Cybersecurity | Network Defense | Offensive Security | Blue Teaming</p>
+<p align="center">(This is still a work in progress)</p>
 
 ---
 
 ### 👋 Welcome to My GitHub Profile
-<p align="center">(This is still a work in progress)</p>
 
 > - Cybersecurity Analyst | Network Defense & Threat Detection  
 > - Passionate about blue team ops, GRC, and real-world adversary emulation  
