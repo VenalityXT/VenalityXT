@@ -13,9 +13,6 @@
 > - Currently building and simulating real SOC workflows with Splunk, SOAR, and pfSense  
 > - Transitioning from infrastructure ops to security engineering  
 
-
-<p align="center"><strong>Cybersecurity | Threat Detection | Red vs Blue | Offensive Labs</strong></p>
-
 ---
 
 ### 🧰 Tools & Technologies
