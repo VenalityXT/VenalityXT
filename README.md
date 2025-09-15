@@ -9,7 +9,7 @@
 ### 👋 Welcome to My GitHub Profile
 
 > - Cybersecurity Analyst | Network Defense & Threat Detection  
-> - Passionate about blue team ops, GRC, and real-world adversary emulation  
+> - Passionate about blue team ops, GRC, and real-world adversary emulation   
 > - Currently building and simulating real SOC workflows with Splunk, SOAR, and pfSense  
 > - Transitioning from infrastructure ops to security engineering  
 
