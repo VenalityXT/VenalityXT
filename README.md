@@ -2,7 +2,7 @@
 
 <h1 align="center">🧠 VenalityXT</h1>
 <p align="center">Cybersecurity | Network Defense | Offensive Security | Blue Teaming</p>
-<p align="center">(This is still a work in progress)</p>
+<p align="center">(This is still a work in progress)</p> 
 
 ---  
  
