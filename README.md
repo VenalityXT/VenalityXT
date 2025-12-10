@@ -1,6 +1,11 @@
 <h1 align="center">VenalityXT</h1>
 <p align="center"><strong>Cybersecurity • Network Defense • Detection Engineering • Adversary Simulation</strong></p>
-<p align="center"><i>"Simplicity is great—until you realize it hides reality."</i></p>
+<p align="center" style="line-height:1.1;">
+  <i>"Simplicity is great—until it obscures reality"</i><br>
+  <sub>Inspired by the philosophy of Russell Mezynski</sub>
+</p>
+
+
 
 ---
 
@@ -8,11 +13,9 @@
 
 ## 01. ABOUT
 
-I design and build security environments that behave like real enterprise infrastructure.  
-My work includes segmentation architecture, adversary modeling, telemetry engineering, packet analysis, and defensive logic creation.
+I build and analyze cybersecurity environments that mirror real enterprise operations. My work spans network segmentation, firewall design, SIEM telemetry engineering, threat hunting, and detection development. I create multi-VM lab ecosystems, replicate full attack chains, and use the resulting telemetry to study how systems behave under real adversarial techniques.
 
-I focus heavily on clean network architecture, accurate documentation, behavior-based detection, and understanding system failure modes.  
-Visio and draw.io are core parts of my workflow for mapping and communicating complex designs.
+Whether modeling architectures in Visio, tuning Snort and pfSense, analyzing Sysmon and Winlogbeat logs in Splunk, or investigating suspicious network flows, my focus is always the same: produce clear, actionable visibility. I combine engineering accuracy with analytical depth to detect meaningful behavior in environments designed to hide it.
 
 ---
 
