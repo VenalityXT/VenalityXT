@@ -37,7 +37,7 @@ Whether modeling architectures in Visio, tuning Snort and pfSense, analyzing Sys
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-yellow?logo=comptia" />
   <img src="https://img.shields.io/badge/CompTIA-CSIS-purple?logo=comptia" />
   <img src="https://img.shields.io/badge/CompTIA-CIOS-green?logo=comptia" />
-  <img src="https://img.shields.io/badge/(ISC)²-Certified%20in%20Cybersecurity%20(CC)-blue?logo=isc2" />
+  <img src="https://img.shields.io/badge/(ISC)²-Certified%20in%20Cybersecurity%20-blue?logo=isc2" />
 </p>
 
 
