@@ -1,4 +1,4 @@
-<h1 align="center">Michael Guajardo</h1>
+<h1 align="center">VenalityXT</h1>
 <p align="center"><strong>Cybersecurity • Network Defense • Detection Engineering • Adversary Simulation</strong></p>
 
 <p align="center"><i>"Simplicity is great—until you realize it hides reality."</i></p>
@@ -7,10 +7,9 @@
 
 ## About Me
 
-I build cybersecurity environments that look and behave like real enterprise networks — segmented, monitored, attacked, and defended.  
-My work focuses on **detection engineering**, **network security architecture**, **exploit replication**, and the systems knowledge required to understand security from both sides of the wire.
+I build cybersecurity environments that look and behave like real enterprise networks. My work combines detection engineering, network security architecture, exploit replication, and telemetry analysis. I focus on designing realistic topologies, generating high quality log data, understanding attack techniques, and building the defensive logic required to detect them.
 
-Between RapidAscent’s intensive training pipeline and my independent lab development, my day-to-day revolves around designing networks, generating meaningful telemetry, analyzing attacks, and building the defensive logic to detect them accurately.
+I also spend significant time designing accurate network diagrams in Visio and draw.io to model complex architectures. Visual clarity matters when building systems worth defending.
 
 ---
 
@@ -31,65 +30,76 @@ Between RapidAscent’s intensive training pipeline and my independent lab devel
 <table>
 <tr><td>
 
-### 🛡️ Detection & Monitoring  
+### 🛡️ Detection and Monitoring  
 - Splunk SIEM (searches, dashboards, detections)  
-- Sysmon & Winlogbeat forwarding pipelines  
-- Endpoint monitoring & alert logic tuning  
-- Correlation rule creation & SOC-style workflows  
+- Sysmon and Winlogbeat pipelines  
+- Endpoint telemetry analysis  
+- Correlation logic and rule development  
 
 </td><td>
 
 ### 🌐 Network Security  
 - pfSense firewalling, NAT, routing  
-- Snort IDS/IPS configuration & tuning  
+- Snort IDS and IPS tuning  
 - VLANs, ACLs, DHCP, VPN  
-- Cisco PacketTracer enterprise builds  
-- Wireshark & TShark packet analysis  
+- Cisco Packet Tracer enterprise simulations  
+- Wireshark and TShark packet analysis  
 
 </td></tr>
 
 <tr><td>
 
-### 💻 Systems & Infrastructure  
-- Windows Server, AD DS, GPO management  
-- Linux admin (Ubuntu/Debian)  
-- Hardening methodologies & STIG alignment  
-- SSH workflows, jumpbox access models  
-- Disk partitioning & OS rebuild procedures  
+### 🧩 Network Architecture and Design  
+- Complex enterprise topologies  
+- Visio and draw.io architecture diagrams  
+- Layered routing models and segmentation  
+- DMZ, honeynets, VPN architectures  
+- Logical and physical design mapping  
 
 </td><td>
 
-### ⚙️ Automation & Scripting  
-- Python (automation, parsing, dashboards)  
-- PowerShell (endpoint operations, monitoring)  
-- Bash / Shell scripting  
-- Ansible playbook-driven configuration  
+### 💻 Systems and Infrastructure  
+- Windows Server, AD DS, Group Policy  
+- Linux administration (Ubuntu and Debian)  
+- Hardening and STIG aligned configurations  
+- SSH workflows and jumpbox access  
+- Disk partitioning and OS deployment  
 
 </td></tr>
 
 <tr><td>
 
-### 🏗️ Virtualization & Cloud  
-- VirtualBox • Proxmox • VMware  
-- Multi-VM architecture & environment design  
-- AWS EC2/VPC/networking fundamentals  
-- Azure fundamentals  
-- Docker container environments  
+### ⚙️ Automation and Scripting  
+- Python for automation and analysis  
+- PowerShell for endpoint and server management  
+- Bash and shell scripting  
+- Ansible for configuration automation  
 
 </td><td>
 
 ### ⚔️ Offensive Security Fundamentals  
 - Kali Linux tooling  
 - Metasploit Framework  
-- Hydra / credential attacks  
-- Exploit testing & adversary emulation  
+- Hydra and password attacks  
+- Exploit testing for defensive insight  
+
+</td></tr>
+
+<tr><td colspan="2">
+
+### 🏗️ Virtualization and Cloud  
+- VirtualBox, Proxmox, VMware  
+- Multi VM lab architecture and lifecycle management  
+- AWS EC2, VPC, IAM, and cloud networking  
+- Azure fundamentals  
+- Docker for lightweight environments  
 
 </td></tr>
 </table>
 
 ---
 
-## Tools & Tech Badges  
+## Tools and Tech Badges  
 <p align="center">
   <img src="https://img.shields.io/badge/SIEM-Splunk-blue?logo=splunk" />
   <img src="https://img.shields.io/badge/Forwarder-Winlogbeat-blue" />
@@ -97,6 +107,8 @@ Between RapidAscent’s intensive training pipeline and my independent lab devel
   <img src="https://img.shields.io/badge/Automation-Ansible-red?logo=ansible" />
   <img src="https://img.shields.io/badge/Scripting-Python-yellow?logo=python" />
   <img src="https://img.shields.io/badge/Scripting-PowerShell-blue?logo=powershell" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu" />
+  <img src="https://img.shields.io/badge/Linux-Debian-red?logo=debian" />
   <img src="https://img.shields.io/badge/Firewall-pfSense-red" />
   <img src="https://img.shields.io/badge/IDS-Snort-lightgrey" />
   <img src="https://img.shields.io/badge/Virtualization-VMware-green" />
@@ -105,6 +117,8 @@ Between RapidAscent’s intensive training pipeline and my independent lab devel
   <img src="https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws" />
   <img src="https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoftazure" />
   <img src="https://img.shields.io/badge/Networking-Cisco-blue?logo=cisco" />
+  <img src="https://img.shields.io/badge/Diagramming-Visio-blue?logo=microsoftvisio" />
+  <img src="https://img.shields.io/badge/Diagramming-draw.io-yellow" />
   <img src="https://img.shields.io/badge/Offense-Kali%20Linux-black" />
   <img src="https://img.shields.io/badge/Threat%20Intel-MITRE%20ATT%26CK-lightgrey" />
 </p>
@@ -115,29 +129,28 @@ Between RapidAscent’s intensive training pipeline and my independent lab devel
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **[SOC Threat Detection Lab](https://github.com/VenalityXT/SOC-Lab)** | Full SIEM pipeline: forwarding, parsing, detections, dashboards, and workflow simulation. | Splunk, Sysmon, Winlogbeat, Ansible |
-| **[Firewall & Network Segmentation Lab](https://github.com/VenalityXT/Firewall-Lab)** | Multi-VLAN architecture with segmentation, ACLs, VPN, IDS, and layered defense design. | pfSense, Snort, OpenVPN |
-| **[Red Team Exploitation Lab](https://github.com/VenalityXT/Red-Team-Lab)** | Exploit replication and adversary behavior modeling used to inform detection engineering. | Kali Linux, Metasploit, Hydra |
-| **[Vulnerability Management Dashboard](https://github.com/VenalityXT/Vuln-Dashboard)** | Visibility dashboards with scanning, compliance mapping, and Python-driven reporting. | Nessus, Python, AWS |
+| **[SOC Threat Detection Lab](https://github.com/VenalityXT/SOC-Lab)** | Complete SIEM pipeline including forwarding, parsing, detections, dashboards, and SOC workflow simulation. | Splunk, Sysmon, Winlogbeat, Ansible |
+| **[Firewall and Network Segmentation Lab](https://github.com/VenalityXT/Firewall-Lab)** | Multi VLAN architecture with segmentation, ACLs, VPN, IDS, and layered defense. | pfSense, Snort, OpenVPN |
+| **[Red Team Exploitation Lab](https://github.com/VenalityXT/Red-Team-Lab)** | Controlled exploitation to understand attacker behavior and improve defensive logic. | Kali Linux, Metasploit, Hydra |
+| **[Vulnerability Management Dashboard](https://github.com/VenalityXT/Vuln-Dashboard)** | Cloud based scanning with compliance mapping and Python generated reporting. | Nessus, Python, AWS |
 
 ---
 
 ## Lab Summary  
-(Representative of cumulative work across RapidAscent, PacketTracer, and independent research.)
+(Representative of combined work across network engineering, security analysis, and ongoing research.)
 
-- **60+ virtual machines deployed & maintained**  
-- **50+ PacketTracer network simulations designed**  
-- **30+ VLANs and segmented environments engineered**  
-- **20+ exploit simulations with documentation**  
-- **Multiple enterprise-style logging pipelines constructed**  
-- **Hundreds of hours across structured training & lab development**
+- 60+ virtual machines deployed across multiple hypervisors  
+- 50+ Packet Tracer network simulations designed and configured  
+- 30+ segmented VLAN environments engineered  
+- 20+ documented exploit simulations  
+- Multiple end to end logging pipelines constructed  
+- Extensive time invested in designing realistic network architectures and detection use cases  
 
-These environments are built to mirror realistic network behavior — noisy, imperfect, and full of opportunities to learn how attackers move and how defenders respond.
+My goal is to build systems that reflect how real networks operate and then study how attackers move through them and how defenders can detect those movements with precision.
 
 ---
 
 ## Activity Visualization  
-(*Because growth looks better when you can see it.*)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake-dark.svg" />
