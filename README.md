@@ -1,4 +1,4 @@
-<h1 align="center">VenalityXT</h1>
+<h1 align="center">Michael Guajardo</h1>
 <p align="center"><strong>Cybersecurity • Network Defense • Detection Engineering • Adversary Simulation</strong></p>
 <p align="center" style="line-height:1.1;">
   <i>""Simplicity is great—right up until it masks reality"</i><br>
