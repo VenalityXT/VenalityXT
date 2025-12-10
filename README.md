@@ -136,17 +136,41 @@ I also spend significant time designing accurate network diagrams in Visio and d
 
 ---
 
-## Lab Summary  
-(Representative of combined work across network engineering, security analysis, and ongoing research.)
+## Lab Summary 
 
-- 60+ virtual machines deployed across multiple hypervisors  
-- 50+ Packet Tracer network simulations designed and configured  
-- 30+ segmented VLAN environments engineered  
-- 20+ documented exploit simulations  
-- Multiple end to end logging pipelines constructed  
-- Extensive time invested in designing realistic network architectures and detection use cases  
+### Mission Stats 
+```ini
+# ===================== SYSTEM MISSION REPORT ======================
 
-My goal is to build systems that reflect how real networks operate and then study how attackers move through them and how defenders can detect those movements with precision.
+[Network_Engineering]
+Architectures_Designed = 100+
+Enterprise_Topologies = core, distribution, access, DMZ, VPN
+VLAN_Environments = 30+
+PacketTracer_Scenarios = 50+
+
+[Virtualization]
+Virtual_Machines_Deployed = 60+
+Hypervisors_Used = VirtualBox, Proxmox, VMware
+
+[Offensive_Simulations]
+Exploit_Chains_Replicated = 20+
+Adversary_Behavior_Analysis = enabled
+
+[Detection_Engineering]
+SIEM_Pipelines = ingest -> parse -> detect -> visualize
+Log_Sources = Sysmon, Winlogbeat, Linux_Audit
+Firewall_IDS = pfSense, Snort, ACL
+
+[Architecture_Design]
+Diagrams_Created = Visio, draw.io
+Complexity_Level = enterprise_grade
+
+# ================================================================
+# Summary: Lab environments engineered to replicate realistic
+# multi-layer enterprise networks for offensive and defensive ops.
+# ================================================================
+                                                                
+```
 
 ---
 
