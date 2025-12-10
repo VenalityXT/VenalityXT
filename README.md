@@ -18,13 +18,15 @@ Visio and draw.io are core parts of my workflow for mapping and communicating co
 
 <!-- ========================== 02: ACTIVITY ========================== -->
 
+## 02. JERRY THE SNAKE
+
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" /> <img alt="GitHub Snake" src="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" /> </picture>
 
 ---
 
 <!-- ========================== 03: CERTIFICATIONS ========================== -->
 
-## 02. CERTIFICATIONS
+## 03. CERTIFICATIONS
 
 <p align="left">
   <img src="https://img.shields.io/badge/CompTIA-A%2B-blue?logo=comptia" />
@@ -38,7 +40,7 @@ Visio and draw.io are core parts of my workflow for mapping and communicating co
 
 <!-- ========================== 04: SKILL MATRIX ========================== -->
 
-## 03. SKILL MATRIX
+## 04. SKILL MATRIX
 
 <table>
 <tr><td>
@@ -113,7 +115,7 @@ Visio and draw.io are core parts of my workflow for mapping and communicating co
 
 <!-- ========================== 05: TOOLCHAIN ========================== -->
 
-## 04. TOOLCHAIN
+## 05. TOOLCHAIN
 
 <p align="center">
   <img src="https://img.shields.io/badge/SIEM-Splunk-blue?logo=splunk" />
@@ -142,7 +144,7 @@ Visio and draw.io are core parts of my workflow for mapping and communicating co
 
 <!-- ========================== 06: PROJECTS ========================== -->
 
-## 05. PROJECTS
+## 06. PROJECTS
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
@@ -155,7 +157,7 @@ Visio and draw.io are core parts of my workflow for mapping and communicating co
 
 <!-- ========================== 07: MISSION REPORT ========================== -->
 
-## 06. LAB SUMMARY
+## 07. LAB SUMMARY
 
 ### Mission Report  
 ```yaml
