@@ -2,7 +2,7 @@
 <p align="center"><strong>Cybersecurity • Network Defense • Detection Engineering • Adversary Simulation</strong></p>
 <p align="center" style="line-height:1.1;">
   <i>"Simplicity is great—right up until it masks reality"</i><br>
-  <sub>Inspired by the philosophy of Russell Mezynski</sub>
+  <sub>Inspired by the philosophy of Aras "Russ" Memisyazici</sub>
 </p>
 
 
