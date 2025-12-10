@@ -140,36 +140,35 @@ I also spend significant time designing accurate network diagrams in Visio and d
 
 ### Mission Stats 
 ```ini
-# ===================== SYSTEM MISSION REPORT ======================
+# ======================= SYSTEM MISSION REPORT =======================
 
 [Network_Engineering]
-Architectures_Designed = 100+
-Enterprise_Topologies = core, distribution, access, DMZ, VPN
-VLAN_Environments = 30+
-PacketTracer_Scenarios = 50+
+Architectures_Designed.................100+
+Enterprise_Topologies..................core, distribution, access, DMZ, VPN
+VLAN_Environments......................30+
+PacketTracer_Scenarios.................50+
 
 [Virtualization]
-Virtual_Machines_Deployed = 60+
-Hypervisors_Used = VirtualBox, Proxmox, VMware
+Virtual_Machines_Deployed..............60+
+Hypervisors_Used.......................VirtualBox, Proxmox, VMware
 
 [Offensive_Simulations]
-Exploit_Chains_Replicated = 20+
-Adversary_Behavior_Analysis = enabled
+Exploit_Chains_Replicated..............20+
+Adversary_Behavior_Analysis............enabled
 
 [Detection_Engineering]
-SIEM_Pipelines = ingest -> parse -> detect -> visualize
-Log_Sources = Sysmon, Winlogbeat, Linux_Audit
-Firewall_IDS = pfSense, Snort, ACL
+SIEM_Pipelines.........................ingest → parse → detect → visualize
+Log_Sources............................Sysmon, Winlogbeat, Linux_Audit
+Firewall_IDS...........................pfSense, Snort, ACL
 
 [Architecture_Design]
-Diagrams_Created = Visio, draw.io
-Complexity_Level = enterprise_grade
+Diagrams_Created.......................Visio, draw.io
+Complexity_Level.......................enterprise_grade
 
-# ================================================================
+# ====================================================================
 # Summary: Lab environments engineered to replicate realistic
-# multi-layer enterprise networks for offensive and defensive ops.
-# ================================================================
-                                                                
+# multi layer enterprise networks for offensive and defensive testing.
+# ====================================================================                                                              
 ```
 
 ---
