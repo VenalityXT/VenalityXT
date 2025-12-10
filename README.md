@@ -199,7 +199,6 @@ Architecture_Design:
   Design_Integrity.......................: "[OK]"
 
 # ===================================================================
-# Summary:
 # Environments built to simulate realistic multi layer enterprise
 # networks and support offensive and defensive cybersecurity testing.
 # ===================================================================
