@@ -17,7 +17,7 @@ Visio and draw.io are core parts of my workflow for mapping and communicating co
 ---
 
 <!-- ========================== 02: ACTIVITY ========================== -->
-07. ACTIVITY
+
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" /> <img alt="GitHub Snake" src="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" /> </picture>
 
 ---
