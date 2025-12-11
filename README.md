@@ -15,7 +15,7 @@
 
 I build and analyze cybersecurity environments that mirror real enterprise operations. My work spans network segmentation, firewall design, SIEM telemetry engineering, threat hunting, and detection development. I create multi-VM lab ecosystems, replicate full attack chains, and use the resulting telemetry to study how systems behave under real adversarial techniques.
 
-Whether modeling architectures in Visio, tuning Snort and pfSense, analyzing Sysmon and Winlogbeat logs in Splunk, or investigating suspicious network flows, my focus is always the same: produce clear, actionable visibility. I combine engineering accuracy with analytical depth to detect meaningful behavior in environments designed to hide it.
+Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, analyzing Sysmon and Winlogbeat logs in Splunk, or investigating suspicious network flows, my focus is always the same: produce clear, actionable visibility. I combine engineering accuracy with analytical depth to detect meaningful behavior in environments designed to hide it.
 
 ---
 
