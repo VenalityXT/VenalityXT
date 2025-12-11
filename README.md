@@ -11,7 +11,7 @@
 
 <!-- ========================== 01: ABOUT ========================== -->
 
-## 01. ABOUT
+## ABOUT
 
 I build and analyze cybersecurity environments that mirror real enterprise operations. My work spans network segmentation, firewall design, SIEM telemetry engineering, threat hunting, and detection development. I create multi-VM lab ecosystems, replicate full attack chains, and use the resulting telemetry to study how systems behave under real adversarial techniques.
 
@@ -21,7 +21,7 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
 
 <!-- ========================== 02: ACTIVITY ========================== -->
 
-## 02. JERRY THE SNAKE
+## JERRY THE SNAKE
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" /> <img alt="GitHub Snake" src="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" /> </picture>
 
@@ -29,7 +29,7 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
 
 <!-- ========================== 03: CERTIFICATIONS ========================== -->
 
-## 03. CERTIFICATIONS
+## CERTIFICATIONS
 
 <p align="left">
   <img src="https://img.shields.io/badge/CompTIA-A%2B-blue?logo=comptia" />
@@ -45,7 +45,7 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
 
 <!-- ========================== 04: SKILL MATRIX ========================== -->
 
-## 04. SKILL MATRIX
+## SKILL MATRIX
 
 <table>
 <tr><td>
@@ -120,7 +120,7 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
 
 <!-- ========================== 05: TOOLCHAIN ========================== -->
 
-## 05. TOOLCHAIN
+## TOOLCHAIN
 
 <p align="center">
   <img src="https://img.shields.io/badge/SIEM-Splunk-blue?logo=splunk" />
@@ -149,7 +149,7 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
 
 <!-- ========================== 06: PROJECTS ========================== -->
 
-## 06. PROJECTS
+## PROJECTS
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
@@ -162,7 +162,7 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
 
 <!-- ========================== 07: MISSION REPORT ========================== -->
 
-## 07. LAB SUMMARY
+## LAB SUMMARY
 
 ### Mission Report  
 ```yaml
