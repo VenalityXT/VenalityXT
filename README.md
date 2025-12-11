@@ -153,10 +153,10 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **[SOC Threat Detection Lab](https://github.com/VenalityXT/SOC-Lab)** | Full SIEM pipeline with forwarding, parsing, detections, and triage logic. | Splunk, Sysmon, Winlogbeat, Ansible |
-| **[Firewall and Network Segmentation Lab](https://github.com/VenalityXT/Firewall-Lab)** | Multi-VLAN segmentation with ACLs, VPN, IDS, and layered security design. | pfSense, Snort, OpenVPN |
-| **[Red Team Exploitation Lab](https://github.com/VenalityXT/Red-Team-Lab)** | Exploit chains replicated to understand attacker movement and validate detections. | Kali Linux, Metasploit, Hydra |
-| **[Vulnerability Management Dashboard](https://github.com/VenalityXT/Vuln-Dashboard)** | Cloud scanning mapped to compliance with Python reporting. | Nessus, Python, AWS |
+| **[SOC Threat Detection Lab](https://github.com/VenalityXT/SOC-Threat-Detection-Response)** | Full SIEM pipeline with forwarding, parsing, detections, and triage logic. | Splunk, Sysmon, Winlogbeat, Ansible |
+| **[Firewall and Network Segmentation Lab](https://github.com/VenalityXT/Network-and-Firewall-Configuration)** | Multi-VLAN segmentation with ACLs, VPN, IDS, and layered security design. | pfSense, Snort, OpenVPN |
+| **[Red Team Exploitation Lab](https://github.com/VenalityXT/Red-Team-Tactics)** | Exploit chains replicated to understand attacker movement and validate detections. | Kali Linux, Metasploit, Hydra |
+| **[Vulnerability Management Dashboard](https://github.com/VenalityXT/Vulnerability-Management-N-Compliance-Dashboard)** | Cloud scanning mapped to compliance with Python reporting. | Nessus, Python, AWS |
 
 ---
 
