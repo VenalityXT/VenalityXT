@@ -5,29 +5,25 @@
   <sub>Inspired by the philosophy of Aras "Russ" Memisyazici</sub>
 </p>
 
-
-
 ---
-
-<!-- ========================== 01: ABOUT ========================== -->
 
 ## ABOUT
 
-I build and analyze cybersecurity environments that mirror real enterprise operations. My work spans network segmentation, firewall design, SIEM telemetry engineering, threat hunting, and detection development. I create multi-VM lab ecosystems, replicate full attack chains, and use the resulting telemetry to study how systems behave under real adversarial techniques.
+I build and analyze **cybersecurity environments** that mirror real enterprise operations, spanning network segmentation, firewall design, SIEM telemetry engineering, threat hunting, and detection development. I replicate full attack chains and use telemetry to observe systems under real-world adversarial techniques.
 
-Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, analyzing Sysmon and Winlogbeat logs in Splunk, or investigating suspicious network flows, my focus is always the same: produce clear, actionable visibility. I combine engineering accuracy with analytical depth to detect meaningful behavior in environments designed to hide it.
+Whether designing architectures in Visio, tuning Snort/OPNsense, analyzing Sysmon/Winlogbeat logs in Splunk, or investigating suspicious network flows, my goal is to produce **clear, actionable visibility**. I combine **engineering accuracy** with **analytical depth** to detect and respond to hidden behaviors.
 
 ---
-
-<!-- ========================== 02: ACTIVITY ========================== -->
 
 ## CYBERJON THE SNAKE
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" /> <img alt="GitHub Snake" src="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" /> </picture>
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: light)" srcset="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" /> 
+  <img alt="GitHub Snake" src="https://VenalityXT.github.io/VenalityXT/github-contribution-grid-snake.svg" /> 
+</picture>
 
 ---
-
-<!-- ========================== 03: CERTIFICATIONS ========================== -->
 
 ## CERTIFICATIONS
 
@@ -40,10 +36,7 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
   <img src="https://img.shields.io/badge/(ISC)²-Certified%20in%20Cybersecurity%20-blue?logo=isc2" />
 </p>
 
-
 ---
-
-<!-- ========================== 04: SKILL MATRIX ========================== -->
 
 ## SKILL MATRIX
 
@@ -118,8 +111,6 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
 
 ---
 
-<!-- ========================== 05: TOOLCHAIN ========================== -->
-
 ## TOOLCHAIN
 
 <p align="center">
@@ -147,8 +138,6 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
 
 ---
 
-<!-- ========================== 06: PROJECTS ========================== -->
-
 ## PROJECTS
 
 | Project | Description | Technologies |
@@ -159,8 +148,6 @@ Whether modeling architectures in Visio, tuning Snort and OPNsense/pfSense, anal
 | **[Vulnerability Management Dashboard](https://github.com/VenalityXT/Vulnerability-Management-N-Compliance-Dashboard)** | Cloud scanning mapped to compliance with Python reporting. | Nessus, Python, AWS |
 
 ---
-
-<!-- ========================== 07: MISSION REPORT ========================== -->
 
 ## LAB SUMMARY
 
