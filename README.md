@@ -33,10 +33,12 @@ Whether designing architectures in Visio, tuning Snort/OPNsense, analyzing Sysmo
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-yellow?logo=comptia" />
   <img src="https://img.shields.io/badge/CompTIA-CSIS-purple?logo=comptia" />
   <img src="https://img.shields.io/badge/CompTIA-CIOS-green?logo=comptia" />
-  <img src="https://img.shields.io/badge/(ISC)²-Certified%20in%20Cybersecurity%20-blue?logo=isc2" />
+  <img src="https://img.shields.io/badge/(ISC)²-Certified%20in%20Cybersecurity-blue?logo=isc2" />
+  <img src="https://img.shields.io/badge/ITIL-4%20Foundation-orange?logo=itil" />
 </p>
 
 ---
+
 
 ## SKILL MATRIX
 
